@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "DPRindustries"
 description              : "External Basic Static Site"
-url                      : "https://dprindsutries.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://dprindustries.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/www.dprindustries.co.uk-mm" # the subpath of your site, e.g. "/blog"
 repository               : "DPRindustries/www.dprindustries.co.uk-mm" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
