@@ -23,8 +23,8 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "DPRindustries"
 description              : "External Basic Static Site"
 url                      : "https://dprindustries.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/www.dprindustries.co.uk-mm" # the subpath of your site, e.g. "/blog"
-repository               : "DPRindustries/www.dprindustries.co.uk-mm" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "/www-dprindustries-co/uk-mm" # the subpath of your site, e.g. "/blog"
+repository               : "DPRindustries/www-dprindustries/co-uk-mm" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
